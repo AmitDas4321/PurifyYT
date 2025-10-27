@@ -84,6 +84,6 @@ If you have any questions or concerns regarding this Privacy Policy, please cont
 
 ---
 
-**Developer:** Amit Das
-**Website:** [https://amitdas.site](https://amitdas.site)
+**Developer:** Amit Das</br>
+**Website:** [https://amitdas.site](https://amitdas.site)</br>
 **Project:** PurifyYT – Hide Shorts, Block Distractions, Stay Focused
