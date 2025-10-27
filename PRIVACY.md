@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/g1TtHpx/Untitled-design.png" alt="Purify Privacy Policy Banner" width="800">
+</p>
+
 # **Privacy Policy for PurifyYT**
 
 *Last updated: October 2025*
