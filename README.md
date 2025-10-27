@@ -77,23 +77,13 @@ Get the latest version of **PurifyYT** from the **Chrome Web Store** or **GitHub
 
 ---
 
-### ⚙️ Extension Popup Settings
-<p align="center"><img src="screenshots/Popup.png" alt="PurifyYT Popup Settings" width="800"/></p>
-
----
-
-### 🧠 Distraction-Free Video Page
-<p align="center"><img src="screenshots/VideoPage.png" alt="Distraction Free YouTube Page" width="800"/></p>
-
----
-
 ## 🔒 Privacy & Security
 
 - PurifyYT does **not** collect, store, or share any personal information.  
 - All settings are saved **locally** using Chrome’s storage API.  
 - No analytics, trackers, or remote connections.  
 
-Read our full [Privacy Policy](https://github.com/AmitDas4321/PurifyYT/blob/main/PRIVACY_POLICY.md).
+Read our full [Privacy Policy](https://github.com/AmitDas4321/PurifyYT/blob/main/PRIVACY.md).
 
 ---
 
