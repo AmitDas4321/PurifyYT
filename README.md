@@ -33,7 +33,7 @@ Get the latest version of **PurifyYT** from the **Chrome Web Store** or **GitHub
   </a>
   &nbsp;&nbsp;
   <!-- GitHub Download Button -->
-  <a href="https://github.com/AmitDas4321/PurifyYT/releases/download/1.0.0/PurifyYT.crx">
+  <a href="https://github.com/AmitDas4321/PurifyYT/releases/download/v1.0.1/PurifyYT.crx">
     <img src="https://img.shields.io/badge/⬇️_Download_CRX_File-006C9C?style=for-the-badge&logo=github&logoColor=white" alt="Download CRX File">
   </a>
 </p>
